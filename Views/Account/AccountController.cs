@@ -2,8 +2,8 @@
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
-using WebAppRazorPages.Model.AuthApp;
-using WebAppRazorPages.Repository;
+using WebApplication6черников.reprozitoriy;
+using WebApplication6черников.Model.authApp;
 
 namespace WebAppRazorPages.Controllers
 {
